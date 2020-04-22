@@ -31,3 +31,5 @@ public:
         return {};
     }
 }
+
+// https://www.mkernel.com/2020/04/21/leetcode%e5%88%b7%e9%a2%98-two-sum/
